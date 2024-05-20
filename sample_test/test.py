@@ -1,4 +1,7 @@
-# 동영상 강의 
+# 책 
+# https://wikidocs.net/13
+
+# 동영상 강의 => 조코딩
 # https://www.youtube.com/watch?v=zAkAZjmnS3c&list=PLU9-uwewPMe05-khW3YcDEaHMk_qA-7lI&index=3
 
 # a = 0x8ff

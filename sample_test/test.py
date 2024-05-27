@@ -43,9 +43,10 @@
 # print(a[-34])
 
 # 문자열 슬라이싱
-a = "Life is too short, You need Python"
+# a = "Life is too short, You need Python"
 # b = a[0] + a[1] + a[2] + a[3]
 # a[이상 : 미만 : 간격]
-b = a[0:4]
-print(b)
+# b = a[0:4]
+# print(b)
+
 
